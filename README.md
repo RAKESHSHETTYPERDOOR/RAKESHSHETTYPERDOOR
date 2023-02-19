@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RAKESHSHETTYPERDOOR
+- 👋 Hi, I’m @RAKESHSHETTY
 - 👀 I’m interested in ...Web development technologies
 - 🌱 I’m currently learning ...Full stack Web development
 - 💞️ I’m looking to collaborate on ... Front-End
